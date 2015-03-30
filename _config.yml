@@ -1,14 +1,11 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Kuak experiments
+email: info@kuak.me
+description: Est&eacute; es el blog de investigaci&oacute;n y experimentaci&oacute;n del equipo de desarrollo de Kuak, del cual puedes econtrar m&aacute;s informaci&oacute;n el el sitio principal Kuak.me
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://kuak.me" # the base hostname & protocol for your site
+twitter_username: kuakme
+github_username:  kuak
 
 # Build settings
 markdown: kramdown
