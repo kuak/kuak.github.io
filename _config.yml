@@ -3,7 +3,7 @@ title: Kuak experiments
 email: info@kuak.me
 description: Est&eacute; es el blog de investigaci&oacute;n y experimentaci&oacute;n del equipo de desarrollo de Kuak, del cual puedes econtrar m&aacute;s informaci&oacute;n el el sitio principal Kuak.me
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kuak.me" # the base hostname & protocol for your site
+url: "https://kuak.github.io/" # the base hostname & protocol for your site
 twitter_username: kuakme
 github_username:  kuak
 
